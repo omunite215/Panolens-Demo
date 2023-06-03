@@ -99,7 +99,7 @@ If you have any feedback, please reach out to me at omunite21@gmail.com
 
 ## Acknowledgements
 
- - [Panolens docs]([https://nextjs.org/docs](https://pchen66.github.io/Panolens/#Documentation))
+ - [Panolens docs](https://pchen66.github.io/Panolens/#Documentation)
  - [Bootstrap Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 
