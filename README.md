@@ -17,11 +17,6 @@ Before you start, make sure you have the following project installed on your com
 Node.js
 npm (Node Package Manager)
 
-
-## 🛠 Skills
-Javascript, HTML, CSS, Panolens.JS, Bootstrap.
-
-
 ## How to use this Repository?
 
 1. Clone the repository to your local machine
@@ -35,75 +30,64 @@ Javascript, HTML, CSS, Panolens.JS, Bootstrap.
 ```bash
   cd Panolens-Demo
 ```
-3. Install the necessary dependencies
-```bash
-  npm install
-```
 
-4. Start the development server
+3. Start the development server
 ```bash
   Host on a Live Server 
 ```
 
 Use [Live Server Extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) on [VS Code](https://code.visualstudio.com/download) to see locally.
 
-## Built With:
+## 🏠 Built With:
 
-- Panolens.JS - Panolens.js is based on Three.JS (a 3D framework) with specific interest area in panorama, virtual reality, and potentially augmented reality.
-- Bootstrap - Powerful, extensible, and feature-packed frontend toolkit.
-- HTML - Standard markup language for creating web pages
-- CSS - Style sheet language used for describing the look and formatting of a document written in HTML.
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,bootstrap,threejs,git,github)](https://skillicons.dev)
 
-## Features
+## 🛠 Skills
 
-- Panorama
-- 3D Effect
-- Optimized.
-- Responsive.
-
-
-## Tech Stack
-
-**Client:** Panolens.JS, Bootstrap
-
-**Server:** Github-Pages
-
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,threejs,figma,git,github)](https://skillicons.dev)
 
 ## 🚀 About Me
-Front - End Web Development Enthusiast
 Specializations:
 - UI/UX Design.
-- Front-End Web Development
+- Web Development
 
+## 🙋‍♂️ Connect With Me
 
-## Other Common Github Profile Sections
+<p align="left">
+  <a href="https://skillicons.dev">
+    <a href="https://github.com/omunite215">
+      <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+  </a>
+   <a href="https://skillicons.dev">
+    <a href="https://www.linkedin.com/in/om-patel-401068143/">
+      <img src="https://skillicons.dev/icons?i=linkedin" />
+    </a>
+  </a>
+  <a href="https://skillicons.dev">
+    <a href="https://www.instagram.com/_21omp/">
+      <img src="https://skillicons.dev/icons?i=instagram" />
+    </a>
+  </a>
+   <a href="https://skillicons.dev">
+    <a href="https://portfoliobyom.netlify.app/">
+      <img src="https://skillicons.dev/icons?i=devto" />
+    </a>
+  </a>
+</p>
 
-👯‍♀️ I'm looking to collaborate on Front-End Web Dev Projects on React.JS
+## 🗒️ Authors
+- Om Patel
 
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at omunite21@gmail.com
-
-
-## Authors
-
-- [@Om Patel](https://github.com/omunite215)
-
-
-## Acknowledgements
-
- - [Panolens docs](https://pchen66.github.io/Panolens/#Documentation)
- - [Bootstrap Docs](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <a href="https://github.com/omunite215">
+      <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+  </a>
+</p>
 
 
 <p align="center">
-  <img src="https://github.com/omunite215/hoobank/assets/78680563/eed23408-14a8-4d04-82b6-6d982f1dcca7" alt="Om's Logo Image"/>
+  <img src="https://github.com/omunite215/Panolens-Demo/assets/78680563/e5fc3254-c6cc-4d56-ac6f-b40722529cf0" alt="Om's Logo Image"/>
 </p>
