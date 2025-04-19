@@ -1,4 +1,4 @@
-# Panolens-Demo by Om Patel
+# Panolens-Demo
 
 ![Screenshot 2023-06-01 162024](https://github.com/omunite215/Panolens-Demo/assets/78680563/d8fc7927-8067-4eb8-905c-110017ce3236)
 
